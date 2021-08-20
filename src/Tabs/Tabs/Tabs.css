@@ -1,0 +1,21 @@
+.tabs__container {
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-color: #eaeaea;
+  display: flex;
+  flex-direction: column;
+}
+
+.tabs__content-container {
+  flex: 1;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #0ac7ff;
+  color: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
